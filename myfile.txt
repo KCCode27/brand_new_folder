@@ -3,3 +3,4 @@ SEcond line from child branch
 Third line also from child branch
 Fourth  one too
 This line arise the conflict
+Its a bug line to merge conflicts
